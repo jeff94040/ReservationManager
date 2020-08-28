@@ -1,0 +1,3 @@
+Fri Aug 28 13:54:30 PDT 2020: [{"DateKey":"2019-07-08","AvailableCount":2},{"DateKey":"2019-07-09","AvailableCount":8},{"DateKey":"2019-07-10","AvailableCount":2},{"DateKey":"2019-07-11","AvailableCount":1}]
+Fri Aug 28 13:55:01 PDT 2020: [{"DateKey":"2019-07-08","AvailableCount":2},{"DateKey":"2019-07-09","AvailableCount":8},{"DateKey":"2019-07-10","AvailableCount":2},{"DateKey":"2019-07-11","AvailableCount":1}]
+Fri Aug 28 13:55:01 PDT 2020: change in availability

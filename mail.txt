@@ -1,0 +1,21 @@
+Change in availability at The Majestic Yosemite
+[
+  {
+    "DateKey": "2019-07-08",
+    "AvailableCount": 2
+  },
+  {
+    "DateKey": "2019-07-09",
+    "AvailableCount": 8
+  },
+  {
+    "DateKey": "2019-07-10",
+    "AvailableCount": 2
+  },
+  {
+    "DateKey": "2019-07-11",
+    "AvailableCount": 1
+  }
+]
+
+For more information, proceed to https://reservations.ahlsmsworld.com/Yosemite/Search/AccomodationSearchResultsFromThreadResult
