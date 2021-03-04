@@ -7,7 +7,7 @@ check_availability () {
 old_availability="$(check_availability)"
 
 # set log location
-log_location="reservation_manager_log.txt"
+log_location="reservation_manager.log"
 
 # command-line arguments
 from_email=$1 # e.g. 'foo@gmail.com'
